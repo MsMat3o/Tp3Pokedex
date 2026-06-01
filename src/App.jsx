@@ -8,7 +8,7 @@ import Barra from './componentes/barra';
 export function App() {
   return (
     <Router>
-      {/* Barra de navegación fija arriba */}
+      {}
       <Barra /> 
 
       <Routes>
